@@ -49,6 +49,10 @@
           <!-- news-section -->
        @include('frontend.home.news')
         <!-- news-section end -->
+
+          <!-- download-section -->
+       @include('frontend.home.download')
+        <!-- download-section end -->
  
 
 @endsection
